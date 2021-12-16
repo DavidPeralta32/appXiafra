@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "815637371044",
+    "project_id": "appxiafra",
+    "storage_bucket": "appxiafra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815637371044:android:485dd321f10bd2c5986e31",
+        "android_client_info": {
+          "package_name": "com.daviperalta.appxiafra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815637371044-7cjiaqp23lp1ofd2qkbp05qe75ckskdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG973KZDvfoqmmlYg-ZBhY55jXwEcDvo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815637371044-7cjiaqp23lp1ofd2qkbp05qe75ckskdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815637371044:android:dcad3ccf4f8f1a5c986e31",
+        "android_client_info": {
+          "package_name": "com.daviperalta.examplexiafra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815637371044-7cjiaqp23lp1ofd2qkbp05qe75ckskdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG973KZDvfoqmmlYg-ZBhY55jXwEcDvo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815637371044-7cjiaqp23lp1ofd2qkbp05qe75ckskdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">exampleXiafra</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">contraseña</string>
+    <string name="accerder">Acceder</string>
+    <string name="registrar">Registrar</string>
+    <string name="carrera">Carrera</string>
+    <string name="btn1">Boton1</string>
+    <string name="btn2">Boton2</string>
+    <string name="cerrarSesion">Cerrar Sesion</string>
+    <string name="escribir">Escribir Mensaje</string>
+    <string name="mostrarMensaje">Mensaje</string>
+    <string name="mensaje">Mensaje</string>
+    <string-array name="carreras">
+
+    </string-array>
+</resources>
